@@ -1,0 +1,21 @@
+/*
+            Header
+              -Logo 
+              -Nav Items(right side)
+              -cart
+            Body
+               -Search Bar
+               -Restaurant List
+                 -Reastaurant Card
+                    -image
+                    -Name
+                    -Rating
+                    -Cuisines
+
+            Footer
+                -Links
+                -Copyrights
+            */
+
+
+
